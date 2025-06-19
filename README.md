@@ -116,7 +116,7 @@ Installation
 Clone or download the repository:
 ````
 git clone https://github.com/Hubdarkweb/ALL-TLS-SCANNER.git
-cd Hubdarkweb
+cd ALL-TLS-SCANNER
 
 ````
 
