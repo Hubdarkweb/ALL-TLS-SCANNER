@@ -68,7 +68,7 @@ Installation
 
 Clone or download the repository:
 
-git clone https://github.com/Hubdarkweb.git
+git clone https://github.com/Hubdarkweb/ALL-TLS-SCANNER.git
 cd Hubdarkweb
 
 
@@ -109,19 +109,19 @@ Examples
 
 Test hosts from a file with a specific proxy:
 
-python proxy_scanner.py -proxy 157.83.8.0:8080 -f hosts.txt
+python any-tls.py -proxy 157.83.8.0:8080 -f hosts.txt
 
 
 
 Test specific domains with the default proxy:
 
-python proxy_scanner.py -f google.com,youtube.com
+python any-tls -f google.com,youtube.com
 
 
 
 Use default proxy and prompt for hosts:
 
-python proxy_scanner.py
+python any-tls
 
 Interactive Mode
 
