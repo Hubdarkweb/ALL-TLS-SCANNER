@@ -79,7 +79,7 @@ pip install colorama pystyle
 
 
 
-Ensure the script (proxy_scanner.py) is in your working directory.
+Ensure the script (any-tls.py) is in your working directory.
 
 Usage
 
@@ -87,7 +87,7 @@ Run the script using command-line arguments or in interactive mode.
 
 Command-Line Mode
 
-python proxy_scanner.py [-proxy <host:port>] [-f <file_or_domains>]
+python any-tls.py [-proxy <host:port>] [-f <file_or_domains>]
 
 Options
 
