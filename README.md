@@ -162,13 +162,13 @@ python any-tls.py -proxy 157.83.8.0:8080 -f hosts.txt
 
 Test specific domains with the default proxy:
 ````
-python any-tls -f google.com,youtube.com
+python any-tls.py -f google.com,youtube.com
 ````
 
 
 Use default proxy and prompt for hosts:
 
-python any-tls
+python any-tls.py
 
 Interactive Mode
 
